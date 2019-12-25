@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.js": "/reactHooksVideoPlayer/static/js/main.282b4bd5.chunk.js",
-    "main.js.map": "/reactHooksVideoPlayer/static/js/main.282b4bd5.chunk.js.map",
-    "runtime~main.js": "/reactHooksVideoPlayer/static/js/runtime~main.22d9f8e4.js",
-    "runtime~main.js.map": "/reactHooksVideoPlayer/static/js/runtime~main.22d9f8e4.js.map",
-    "static/js/2.bd0574ef.chunk.js": "/reactHooksVideoPlayer/static/js/2.bd0574ef.chunk.js",
-    "static/js/2.bd0574ef.chunk.js.map": "/reactHooksVideoPlayer/static/js/2.bd0574ef.chunk.js.map",
+    "main.js": "/reactHooksVideoPlayer/static/js/main.16873123.chunk.js",
+    "main.js.map": "/reactHooksVideoPlayer/static/js/main.16873123.chunk.js.map",
+    "runtime-main.js": "/reactHooksVideoPlayer/static/js/runtime-main.e9508733.js",
+    "runtime-main.js.map": "/reactHooksVideoPlayer/static/js/runtime-main.e9508733.js.map",
+    "static/js/2.4b96e2dd.chunk.js": "/reactHooksVideoPlayer/static/js/2.4b96e2dd.chunk.js",
+    "static/js/2.4b96e2dd.chunk.js.map": "/reactHooksVideoPlayer/static/js/2.4b96e2dd.chunk.js.map",
     "index.html": "/reactHooksVideoPlayer/index.html",
-    "precache-manifest.31d4769236b8f380b4ce8fd10dff2d70.js": "/reactHooksVideoPlayer/precache-manifest.31d4769236b8f380b4ce8fd10dff2d70.js",
-    "service-worker.js": "/reactHooksVideoPlayer/service-worker.js"
-  }
+    "precache-manifest.68d63703e2adab328c2a4699a7fac969.js": "/reactHooksVideoPlayer/precache-manifest.68d63703e2adab328c2a4699a7fac969.js",
+    "service-worker.js": "/reactHooksVideoPlayer/service-worker.js",
+    "static/js/2.4b96e2dd.chunk.js.LICENSE": "/reactHooksVideoPlayer/static/js/2.4b96e2dd.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9508733.js",
+    "static/js/2.4b96e2dd.chunk.js",
+    "static/js/main.16873123.chunk.js"
+  ]
 }
