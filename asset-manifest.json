@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/reactHooksVideoPlayer/static/js/main.16873123.chunk.js",
-    "main.js.map": "/reactHooksVideoPlayer/static/js/main.16873123.chunk.js.map",
+    "main.js": "/reactHooksVideoPlayer/static/js/main.2322ea8a.chunk.js",
+    "main.js.map": "/reactHooksVideoPlayer/static/js/main.2322ea8a.chunk.js.map",
     "runtime-main.js": "/reactHooksVideoPlayer/static/js/runtime-main.e9508733.js",
     "runtime-main.js.map": "/reactHooksVideoPlayer/static/js/runtime-main.e9508733.js.map",
     "static/js/2.4b96e2dd.chunk.js": "/reactHooksVideoPlayer/static/js/2.4b96e2dd.chunk.js",
     "static/js/2.4b96e2dd.chunk.js.map": "/reactHooksVideoPlayer/static/js/2.4b96e2dd.chunk.js.map",
     "index.html": "/reactHooksVideoPlayer/index.html",
-    "precache-manifest.68d63703e2adab328c2a4699a7fac969.js": "/reactHooksVideoPlayer/precache-manifest.68d63703e2adab328c2a4699a7fac969.js",
+    "precache-manifest.023bfbafc331032468e669a9700dc589.js": "/reactHooksVideoPlayer/precache-manifest.023bfbafc331032468e669a9700dc589.js",
     "service-worker.js": "/reactHooksVideoPlayer/service-worker.js",
     "static/js/2.4b96e2dd.chunk.js.LICENSE": "/reactHooksVideoPlayer/static/js/2.4b96e2dd.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.e9508733.js",
     "static/js/2.4b96e2dd.chunk.js",
-    "static/js/main.16873123.chunk.js"
+    "static/js/main.2322ea8a.chunk.js"
   ]
 }

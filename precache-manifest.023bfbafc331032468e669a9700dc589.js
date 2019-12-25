@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2cf596f6ca290ea03742be234015c4c",
+    "revision": "2b3b0a8b21f2019345fcd137d9d3c761",
     "url": "/reactHooksVideoPlayer/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactHooksVideoPlayer/static/js/2.4b96e2dd.chunk.js.LICENSE"
   },
   {
-    "revision": "28eb5140b81978995f44",
-    "url": "/reactHooksVideoPlayer/static/js/main.16873123.chunk.js"
+    "revision": "f8eba1b5812a01c62cd2",
+    "url": "/reactHooksVideoPlayer/static/js/main.2322ea8a.chunk.js"
   },
   {
     "revision": "12847d58918a73d4c2f4",
